@@ -9,19 +9,6 @@
     },
     "preview": {
       "distribution": "internal"
-    },
-    "production": {}
-  },
-  "submit": {
-    "production": {
-      "ios": {
-        "appleId": "savinvadim1312@gmail.com",
-        "ascAppId": "1608390544",
-        "appleTeamId": "J5KS3PTAAH"
-      },
-      "android": {
-        "serviceAccountKeyPath": "../../Crypto Price Tracker Assets/Android/Keys and Builds/Key/pc-api-6462255596669092659-988-6b10d754c795.json"
-      }
     }
   }
 }
